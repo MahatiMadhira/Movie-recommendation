@@ -7,6 +7,6 @@ A basic movie recommendation system built using Python and a dataset of 5000 pop
 # Future works
 1. Using a bigger dataset with movies from different languages
 2. Creating a GUI to make user interaction easy
-3. Extrapolating the recommendation system to other fields like product recommendation (Amazon)
+3. Extrapolating the recommendation system to other fields like product recommendation (Amazon), music recommendation (Spotify)
 
 
